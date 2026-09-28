@@ -1,4 +1,3 @@
-
 #1st problem
 '''def sumofArray(a): 
   sum=0
@@ -229,7 +228,3 @@ def sumarray(a,k,target):
       return [a[i] for i in range(i-k+1,i+1)]
   return -1    
 print(sumarray(a,3,10))
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-  </body>
-</html>
